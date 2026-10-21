@@ -1,0 +1,17 @@
+﻿AJJIL - FRESH SAFE TRANSPORT CHECK
+Checked (UTC): 2026-10-21T08:39:07Z
+Method: anonymous curl GET; redirects not followed; no cookies/passwords/tokens saved.
+Only status, Location and Strict-Transport-Security headers retained.
+
+=== http://ajjil-web.appssquare.com/ ===
+HTTP/1.1 200 OK
+
+=== https://ajjil-web.appssquare.com/ ===
+HTTP/1.1 200 OK
+
+=== http://back.ajjil.net/login ===
+HTTP/1.1 200 OK
+
+=== https://back.ajjil.net/login ===
+HTTP/1.1 200 OK
+
